@@ -1,2 +1,1 @@
-# rsschool-cv
-testing the task
+# My CV RSS
